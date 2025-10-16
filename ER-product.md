@@ -39,6 +39,10 @@ erDiagram
 
 ### Optional Enhancements
 
+If your WMS also handles vendor-specific or customer-specific barcodes:
+
+You can extend the design:
+
 ```mermaid
 erDiagram
 
