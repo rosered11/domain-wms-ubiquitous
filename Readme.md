@@ -53,7 +53,7 @@ SkuId: SKU12345 (Coca-Cola 330ml)
 
 ### WMS Domain Model
 
-
+```
 Product
  ├── SkuId (PK)
  ├── SkuName
@@ -67,6 +67,7 @@ ProductBarcode
  ├── UOM
  ├── IsDefault
  └── PackagingType
+```
 
 ### Summary
 
